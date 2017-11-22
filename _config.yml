@@ -12,6 +12,8 @@ zip_code: 55555
 country: Belgium
 phone: (716) 555-5555
 
+default_locale: "nl"
+
 # social settings
 facebook_url: https://www.facebook.com/gert.claus
 googleplus_url:
