@@ -13,6 +13,8 @@ country: Belgium
 phone: (716) 555-5555
 
 default_locale: "nl"
+paginate: 3
+paginate_path: "/page:num/"
 
 # social settings
 facebook_url: https://www.facebook.com/gert.claus
