@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements Reference
+title: Stijlgids
 ---
 
 <!-- Text stuff -->
